@@ -6,6 +6,8 @@
 */
 // Formas de Inicializar um Array vazio
 var daysOfWeek = [];
+
+// ou preenchido
 var daysOfWeek2 = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sabado'];
 
 // Para saber o tamanho do array, podemos usar a propriedade .length
